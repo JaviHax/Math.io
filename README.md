@@ -21,3 +21,5 @@ What it can do?
 How it looks!.
 
 ![blank](https://i.imgur.com/xv854TU.png?1)
+
+this proyect was made in a Linux-based operating system; hasn't been tested in Microsoft Windows operating systems.
