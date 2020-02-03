@@ -1,3 +1,7 @@
+'''
+Codigo desarrollado por Javier "JaviHax" Rivas 2019.
+'''
+
 #code starts here
 from os import system
 from termcolor import colored
